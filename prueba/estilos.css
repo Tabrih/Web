@@ -1,3 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100dvh;
+}
+
+p {
+    margin-block: 1lvh;
+}
 
 .navbar{
     transition: all 0.5s;
