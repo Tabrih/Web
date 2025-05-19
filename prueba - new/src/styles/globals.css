@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100dvh;
+
+    background-image: url('../../src/img/Portada-Modificado-Blanco.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+p {
+    margin-block: 1lvh;
+}
+
+/* HEADER NAVBAR */
+.navbar {
+    transition: all 0.5s;
+}
+
+.logo-navbar {
+    height: 80px;
+    width: auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+/* FOOTER SOCIALS LINKS */
+.icon-link {
+    color: #FF0000;
+    text-decoration: none;
+    transition: transform 0.2s;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+
+.icon-link-2 {
+    color: pink;
+    text-decoration: none;
+    transition: transform 0.2s;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: transparent;
+}
+
+.icon-link-3 {
+    color: white;
+    text-decoration: none;
+    transition: transform 0.2s;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: transparent;
+}
+
+.icon-link-4 {
+    color: lightblue;
+    text-decoration: none;
+    transition: transform 0.2s;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: transparent;
+}
