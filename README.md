@@ -13,9 +13,15 @@ Hope you like it!
 ```text
 |-src/
 |    |-img/
-|        |-deberíais_renombrar_esto_al_menos.jpg
+|        |-ChatGPT Image 23 abr 2025, 21_29_05.png
+|        |-Gemini_Generated_Image_557eqa557eqa557e.jpg
+|        |-Portada_Portafolio_Fotografía_Aesthetic_Minimalista_Blanco_y_Negro__1_-removebg-preview.svg
+|        |-Portada-Modificado-Blanco.svg
+|        |-Portada-Portafolio-Fotografía-Aesthetic-Minimalista-Blanco-y-Negro-_2_.svg
+|        |-test1.jpg
+|        |-test2.svg
 |    |styles/
-|        |-estilos.css //yo lo renombraría a algo tipo "nombre_de_la_pagina.css"
+|        |-estilos.css 
 |        |-globals.css
 |-characters.html
 |-index.html
