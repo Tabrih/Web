@@ -6,7 +6,6 @@ body {
     display: grid;
     grid-template-rows: auto 1fr auto;
     min-height: 100dvh;
-
     background-image: url('../../src/img/Portada-Modificado-Blanco.svg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,7 +16,7 @@ p {
     margin-block: 1lvh;
 }
 
-/* HEADER NAVBAR */
+
 .navbar {
     transition: all 0.5s;
 }
@@ -34,7 +33,7 @@ footer {
     padding: 10px;
 }
 
-/* FOOTER SOCIALS LINKS */
+
 .icon-link {
     color: #FF0000;
     text-decoration: none;
@@ -78,4 +77,11 @@ footer {
     align-items: center;
     margin: 0;
     background-color: transparent;
+}
+
+.carousel-maps {
+    width: 100%;
+    height: 500px;
+    object-fit:fill;
+
 }
